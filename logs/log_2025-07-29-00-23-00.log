@@ -1,0 +1,4 @@
+[2025-07-29 00:23:00,106] werkzeug - INFO -  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+[2025-07-29 00:24:44,668] werkzeug - INFO - 127.0.0.1 - - [29/Jul/2025 00:24:44] "GET / HTTP/1.1" 200 -
+[2025-07-29 00:24:44,711] werkzeug - INFO - 127.0.0.1 - - [29/Jul/2025 00:24:44] "GET /favicon.ico HTTP/1.1" 404 -
+[2025-07-29 00:28:12,471] werkzeug - INFO - 127.0.0.1 - - [29/Jul/2025 00:28:12] "GET / HTTP/1.1" 200 -
